@@ -1,6 +1,6 @@
 ### Hey there! I'm Nazrul Islam!
 <hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia&hide=contribs,prs,issues&show=prs_merged_percentage"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=nazisl&show_icons=true&theme=algolia&hide=contribs,prs,issues&show=prs_merged_percentage" alt="GitHub Stats"/>
 
 - **Software Engineer**, [Nascenia Ltd.](https://nascenia.com/)
 - **Ex Research Assistant**, <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
